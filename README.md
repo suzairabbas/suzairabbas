@@ -15,6 +15,7 @@ I am expert in the following technologies:
 - TFS and Git Source Control
 - Project management tools i.e. TFS, Trello, Click Up
 
+
 Best Regards,
+
 Syed Uzair Abbas
-Senior Software Developer
