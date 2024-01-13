@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @suzairabbas
-- 👀 I’m interested in Coding, Software and Website Development
-- 🌱 I’m currently learning to grow my skillset
-- 💞️ I’m looking to collaborate on Software Development projects
-- 📫 You can reach me on suzairabbas@gmail.com
+I am an expert .NET developer having experience of around 6 years. I have good experience working on C#, ASP.NET Core, MVC, APIs, Frontend and Backend, jQuery, SQL Server and other databases.
 
-<!---
-suzairabbas/suzairabbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am available to provide my services in Web, Desktop and backend development.
+I have worked on the enterprise clients and delivered the projects successfully with good client feedback.
+
+I am expert in the following technologies:
+- Web, Backend and Desktop Development
+- Microsoft .NET Core C#
+- ASP.NET MVC
+- SQL Server, MySQL and MS Access
+- Entity Framework and ADO.NET
+- JavaScript, jQuery and jQuery UI, Bootstrap
+- Self-hosted and Windows Services
+- RDLC and Crystal Reports
+- TFS and Git Source Control
+- Project management tools i.e. TFS, Trello, Click Up
+
+Best Regards,
+Syed Uzair Abbas
+Senior Software Developer
